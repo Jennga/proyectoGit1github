@@ -1,1 +1,2 @@
 Es un ejercicio de git para que lo use en el futuro
+Vamos a agregarle una linea mas de parrafo para ver que mas se puede ver en el git log --stat
