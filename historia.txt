@@ -1,1 +1,1 @@
-Este es un ejercicio de git para que lo use en el futuro
+Es un ejercicio de git para que lo use en el futuro
