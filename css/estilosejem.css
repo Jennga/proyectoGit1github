@@ -27,7 +27,7 @@ div {
     padding: 20px;
     margin: 30px;
 }
-footer ´{
+footer {
     display: flex;
     justify-content: space-between; 
     width: 1000px;
