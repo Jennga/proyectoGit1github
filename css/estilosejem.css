@@ -27,3 +27,17 @@ div {
     padding: 20px;
     margin: 30px;
 }
+footer ´{
+    display: flex;
+    justify-content: space-between; 
+    width: 1000px;
+    margin-left: 100px;
+}
+.foot {
+    background-color: rgba(173, 255, 47, 0.6);
+    color: rgba(0, 0, 0, 0.6);
+    width: 400px;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 30px;
+}
