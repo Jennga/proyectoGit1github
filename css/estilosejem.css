@@ -5,15 +5,26 @@ body {
     font-family: Arial;
 }
 header {
+    height: 30vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#titulo {
     background-color: rgba(240, 248, 250,0.8);
     color: rgba(0, 0, 0, 0.6);
     width: 50%;
-    justify-content: center;
-    margin-left: 300px;
     border-radius: 8px;
     padding: 10px;
+    margin: 0 auto;
+    text-align: center;
 }
-div {
+main {
+    margin: 0;
+    height: 40vh;
+}
+.cont-main {
     display: flex;
     justify-content: space-between; 
     width: 1000px;
@@ -22,8 +33,11 @@ div {
 .blog {
     background-color: rgba(127, 255, 212, 0.6);
     color: rgba(0, 0, 0, 0.6);
-    width: 400px;
+    width: 4%;
     border-radius: 8px;
     padding: 20px;
     margin: 30px;
+}
+.otro {
+    background-color: blue;
 }
